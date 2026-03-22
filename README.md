@@ -78,6 +78,6 @@ ros2 run my_cam camera_subscriber
 
 ### For RViz Visualization:
 ```bash
-ros2 run rviz2 rviz2
+rviz2
 # Add Image display → Topic: /camera/image_raw
 ```
